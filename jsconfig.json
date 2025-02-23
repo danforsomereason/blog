@@ -3,5 +3,8 @@
     "paths": {
       "@/*": ["./src/*"]
     }
-  }
+  },
+  "emmet.includeLanguages": {
+  "javascript": "javascriptreact"
+}
 }
